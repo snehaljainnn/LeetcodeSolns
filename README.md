@@ -7,3 +7,4 @@ My personal archive of Data Structures and Algorithms solutions from LeetCode, t
 | Date | Problem Link | Language | Key Pattern / Takeaway |
 | :--- | :--- | :--- | :--- |
 | 18-07-2026 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | Java | Two-Pointer approach after sorting values with indices. Time Complexity: O(n)|
+| 18-07-2026 | [15. 3Sum](https://leetcode.com/problems/3sum/) | Java | Sorting + Two-Pointer approach while skipping duplicate elements. Time Complexity: $O(n^2)$ |
