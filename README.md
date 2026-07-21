@@ -14,3 +14,4 @@ My personal archive of Data Structures and Algorithms solutions from LeetCode, t
 | 19-07-2026 | [Segregate 0s and 1s](https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1) | Java |Two-Pointer approach. Time Complexity: O(n) |
 | 20-07-2026 | [Max Sum Subarray of size K](https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1) | Java |Sliding window approach. Time Complexity: O(n) |
 | 20-07-2026 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/) | Java |Sliding window approach. Time Complexity: $O(n^2)$ |
+| 21-07-2026 | [Dutch National flag](https://leetcode.com/problems/sort-colors/) | Java |Sliding window approach. Time Complexity: O(n) |
