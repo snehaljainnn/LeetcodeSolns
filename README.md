@@ -4,9 +4,9 @@ My personal archive of Data Structures and Algorithms solutions from LeetCode, t
 
 ## Progress Tracker
 
-| Date | Problem Link | Language | Key Pattern / Takeaway |
+| Date | Problem Link | Language | Key Pattern / Takeaway | Level |
 | :--- | :--- | :--- | :--- |
-| 18-07-2026 | [Two Sum](https://leetcode.com/problems/two-sum/) | Java | Two-Pointer approach after sorting values with indices. Time Complexity: O(n)|
+| 18-07-2026 | [Two Sum](https://leetcode.com/problems/two-sum/) | Java | Two-Pointer approach after sorting values with indices. Time Complexity: O(n) | Leetcode Easy |
 | 18-07-2026 | [3Sum](https://leetcode.com/problems/3sum/) | Java | Sorting + Two-Pointer approach while skipping duplicate elements. Time Complexity: $O(n^2)$ |
 | 18-07-2026 | [Remove duplicate from sorted linkedlist](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Java |Two-Pointer approach. Time Complexity: O(n) |
 | 18-07-2026 | [Squares of sorted array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Java |Two-Pointer approach. Time Complexity: O(n) |
