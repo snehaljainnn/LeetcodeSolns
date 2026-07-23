@@ -16,3 +16,4 @@ My personal archive of Data Structures and Algorithms solutions from LeetCode, t
 | 20-07-2026 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/) | Java |Sliding window approach. Time Complexity: $O(n^2)$ | Leetcode Medium |
 | 21-07-2026 | [Dutch National flag](https://leetcode.com/problems/sort-colors/) | Java |3 pointers approach. Time Complexity: O(n) | Leetcode Medium |
 | 21-07-2026 | [Triplets with Smaller Sum](https://www.geeksforgeeks.org/problems/count-triplets-with-sum-smaller-than-x5549/1) | Java |2 pointers approach. Time Complexity: $O(n^2)$ | Leetcode Medium |
+| 23-07-2026 | [Longest Substring with K Uniques](https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1) | Java |Dyanmic Sliding window. Time Complexity: $O(n)$ | GFG Medium |
