@@ -19,3 +19,4 @@ My personal archive of Data Structures and Algorithms solutions from LeetCode, t
 | 23-07-2026 | [Longest Substring with K Uniques](https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1) | Java |Dyanmic Sliding window. Time Complexity: $O(n)$ | GFG Medium |
 | 23-07-2026 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/description/) | Java |Dyanmic Sliding window. Time Complexity: $O(n)$ | Leetcode Medium |
 | 23-07-2026 | [Longest Substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Java |Dyanmic Sliding window. Time Complexity: $O(n)$ | Leetcode Medium |
+| 24-07-2026 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/) | Java |Dyanmic Sliding window. Time Complexity: $O(n)$ | Leetcode Medium |
