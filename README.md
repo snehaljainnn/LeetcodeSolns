@@ -23,3 +23,4 @@ My personal archive of Data Structures and Algorithms solutions from LeetCode, t
 | 27-07-2026 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/) | Java |Dyanmic Sliding window. Time Complexity: $O(n)$ | Leetcode Medium |
 | 29-07-2026 | [ Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | Java |Slow and fast pointers. Time Complexity: $O(n)$ | Leetcode Easy |
 | 29-07-2026 | [ Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Java |Slow and fast pointers. Time Complexity: $O(n^2)$ | Leetcode Medium |
+| 29-07-2026 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | Java |Slow and fast pointers. Time Complexity: $O(n)$ | Leetcode Easy |
