@@ -27,3 +27,4 @@ My personal archive of Data Structures and Algorithms solutions from LeetCode, t
 | 29-07-2026 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | Java |Slow and fast pointers. Time Complexity: $O(n)$ | Leetcode Medium |
 | 29-07-2026 | [Happy Number](https://leetcode.com/problems/happy-number/description/) | Java |Slow and fast pointers. Time Complexity: $O(n)$ | Leetcode Medium |
 | 30-07-2026 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/?utm_source=chatgpt.com) | Java |Kadane Algorithm Time Complexity: $O(n)$ | Leetcode Medium |
+| 30-07-2026 | [Minimum Subarray](https://www.geeksforgeeks.org/problems/smallest-sum-contiguous-subarray/1) | Java |Kadane Algorithm Time Complexity: $O(n)$ | GFG Medium |
