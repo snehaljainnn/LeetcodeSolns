@@ -30,3 +30,4 @@ My personal archive of Data Structures and Algorithms solutions from LeetCode, t
 | 30-07-2026 | [Minimum Subarray](https://www.geeksforgeeks.org/problems/smallest-sum-contiguous-subarray/1) | Java |Kadane Algorithm Time Complexity: $O(n)$ | GFG Medium |
 | 30-07-2026 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/?utm_source=chatgpt.com) | Java |Kadane Algorithm Time Complexity: $O(n)$ | Leetcode Medium |
 | 3-08-2026 | [Maximum Subarray Sum with one deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/) | Java |Kadane Algorithm Time Complexity: $O(n)$ | Leetcode Medium |
+| 3-08-2026 | [Maximum absolute sum of any subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/) | Java |Kadane Algorithm Time Complexity: $O(n)$ | Leetcode Medium |
