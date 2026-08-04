@@ -32,3 +32,4 @@ My personal archive of Data Structures and Algorithms solutions from LeetCode, t
 | 3-08-2026 | [Maximum Subarray Sum with one deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/) | Java |Kadane Algorithm Time Complexity: $O(n)$ | Leetcode Medium |
 | 3-08-2026 | [Maximum absolute sum of any subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/) | Java |Kadane Algorithm Time Complexity: $O(n)$ | Leetcode Medium |
 | 4-08-2026 | [Maximum circular subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/?utm_source=chatgpt.com) | Java |Kadane Algorithm in circular queue Time Complexity: $O(n)$ | Leetcode Medium |
+| 4-08-2026 | [Pivot index](https://leetcode.com/problems/find-pivot-index/description/) | Java |Prefix Sum pattern Time Complexity: $O(n)$ | Leetcode Medium |
